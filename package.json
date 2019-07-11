@@ -1,0 +1,19 @@
+{
+  "name": "@dietfriends/github-label-presets",
+  "version": "1.0.0",
+  "description": "Github Label Presets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chatbot-pf/github-labels.git"
+  },
+  "author": "Minsu Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chatbot-pf/github-labels/issues"
+  },
+  "homepage": "https://github.com/chatbot-pf/github-labels#readme"
+}

@@ -1,4 +1,7 @@
 # Github Label Presets
+
+![npm](https://badgen.net/npm/v/@dietfriends/github-label-presets)
+
 Github Label
 
 - ![#ededed](https://placehold.it/15/ededed/000000?text=+) duplicate - This issue or Pull Request already exists
